@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DivyaPratapSingh
 - This is my canvas I'ma paint it, how I want it.
 - - ![DivyaPratapSingh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratapsdev11&show_icons=true&theme=radical)
-# Tech Stack
+#  MY Tech Stack
 
 ## Machine Learning and Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%2300a0e5.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23FD6F02.svg?&style=for-the-badge&logo=OpenCV&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-%2300ACC1.svg?&style=for-the-badge&logo=Nltk&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%232B5279.svg?&style=for-the-badge&logo=Hugging%20Face&logoColor=white)
